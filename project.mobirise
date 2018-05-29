@@ -40,7 +40,7 @@
     "screenshot": "screenshot.png",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/4045fc9c433064ee14be9c24d5558e21-1357657000-8-205898-485962048080811-1484216316-n-list-noup.jpg",
     "noImageResize": "true",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-99538757-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-99538757-1');\r\n</script>",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
@@ -345,6 +345,18 @@
                 "active": false
               },
               {
+                "tags": "Sympathieke",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-4-3-1-40-6-748177.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=-X-p0107zWo",
+                "image": "@PROJECT_PATH@/assets/images/a9a2737.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/a9a2737-800x1143.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Onderschrift hier",
+                "active": false
+              },
+              {
                 "tags": "Geweldige",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -438,19 +450,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
-              },
-              {
-                "tags": "Sympathieke",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/a9a2731.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/a9a2731-800x1151.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Sympathieke",
@@ -558,7 +558,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Sympathieke",
