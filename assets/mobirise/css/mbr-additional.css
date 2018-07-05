@@ -1372,18 +1372,6 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qQTA10Ev2x {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qQTA10Ev2x .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qQTA10Ev2x H2 {
-  text-align: center;
-  color: #000000;
-}
 .cid-qQTs6EWFoQ {
   padding-top: 0px;
   padding-bottom: 90px;
@@ -1420,7 +1408,7 @@ body {
   background: transparent !important;
 }
 .cid-qQTs6EWFoQ .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
+  opacity: 0.3 !important;
 }
 .cid-qQTs6EWFoQ .mbr-gallery-title {
   font-size: .9em;
@@ -1442,7 +1430,7 @@ body {
   position: absolute;
   background: #554346 !important;
   background: linear-gradient(to left, #554346, #45505b) !important;
-  opacity: 0.7;
+  opacity: 0.3;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
